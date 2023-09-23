@@ -16,7 +16,5 @@ h3 {
 
 section {
     display: flex;
-    width: 70%;
-    margin-top: 80px;
-    margin-left: 80px;
+    margin: 80px;
 }
