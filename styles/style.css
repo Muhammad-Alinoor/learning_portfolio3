@@ -1,0 +1,22 @@
+body {
+    color: #707070;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+.black-color {
+    color: black;
+}
+
+section {
+    display: flex;
+    width: 70%;
+    margin-top: 80px;
+    margin-left: 80px;
+}
